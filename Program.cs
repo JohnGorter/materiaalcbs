@@ -10,7 +10,6 @@ namespace MyProgram
     {
         public static void Main(string[] args)
         {
-
             HangmanGame h = new HangmanGame();
             h.start();
         }
