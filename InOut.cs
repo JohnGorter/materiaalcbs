@@ -12,9 +12,9 @@ namespace MyProgram
             Console.WriteLine(arg);
         }
 
-        public string askLetter()
+        public string askLetter(string line)
         {
-            Console.WriteLine("Geef een letter:");
+            Console.WriteLine(line);
             return Console.ReadLine();
         }
 
