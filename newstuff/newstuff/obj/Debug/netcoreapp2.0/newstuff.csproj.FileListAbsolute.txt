@@ -1,0 +1,11 @@
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.csprojResolveAssemblyReference.cache
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.csproj.CoreCompileInputs.cache
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.AssemblyInfoInputs.cache
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.AssemblyInfo.cs
+/Users/johngorter/Projects/newstuff/newstuff/bin/Debug/netcoreapp2.0/newstuff.deps.json
+/Users/johngorter/Projects/newstuff/newstuff/bin/Debug/netcoreapp2.0/newstuff.runtimeconfig.json
+/Users/johngorter/Projects/newstuff/newstuff/bin/Debug/netcoreapp2.0/newstuff.runtimeconfig.dev.json
+/Users/johngorter/Projects/newstuff/newstuff/bin/Debug/netcoreapp2.0/newstuff.dll
+/Users/johngorter/Projects/newstuff/newstuff/bin/Debug/netcoreapp2.0/newstuff.pdb
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.dll
+/Users/johngorter/Projects/newstuff/newstuff/obj/Debug/netcoreapp2.0/newstuff.pdb

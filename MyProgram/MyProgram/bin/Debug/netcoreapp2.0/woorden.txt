@@ -1,0 +1,4 @@
+﻿hallo
+tekstbestand
+van 
+hangman

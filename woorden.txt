@@ -1,4 +1,0 @@
-﻿hallo
-tekstbestand
-van 
-hangman

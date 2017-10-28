@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E054223C-75DE-4062-81D5-E71C055266C3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyProgram/Game.cs">
+    <Files>
+      <File FileName="MyProgram/Program.cs" Line="22" Column="74" />
+      <File FileName="MyProgramTests/UnitTest1.cs" Line="14" Column="19" />
+      <File FileName="MyProgram/Scoreboard.cs" Line="9" Column="7" />
+      <File FileName="MyProgram/IWoordenlijst.cs" Line="6" Column="24" />
+      <File FileName="MyProgram/RandomWoordenlijst.cs" Line="15" Column="29" />
+      <File FileName="MyProgram/HangmanGame.cs" Line="7" Column="33" />
+      <File FileName="MyProgram/EenWoordWoordenlijst.cs" Line="18" Column="13" />
+      <File FileName="MyProgram/TextFileWoordenlijst.cs" Line="18" Column="10" />
+      <File FileName="MyProgram/woorden.txt" Line="4" Column="8" />
+      <File FileName="MyProgram/Woordenlijst.cs" Line="7" Column="9" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.4.0/lib/mono/msbuild/15.0/bin/Roslyn/Microsoft.CSharp.Core.targets" Line="84" Column="5" />
+      <File FileName="MyProgram/Game.cs" Line="13" Column="4" />
+      <File FileName="MyProgram/GetalOnderTienGame.cs" Line="10" Column="31" />
+      <File FileName="MyProgram/BoterKaasEnEieren.cs" Line="15" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/woorden.txt
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgramTests.deps.json
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgramTests.runtimeconfig.json
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgramTests.runtimeconfig.dev.json
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgramTests.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgramTests.pdb
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgram.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/bin/Debug/netcoreapp2.0/MyProgram.pdb
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.csprojResolveAssemblyReference.cache
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.csproj.CoreCompileInputs.cache
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.AssemblyInfoInputs.cache
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.AssemblyInfo.cs
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.dll
+/Users/johngorter/Projects/MyProgram/MyProgramTests/obj/Debug/netcoreapp2.0/MyProgramTests.pdb

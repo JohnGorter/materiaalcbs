@@ -1,0 +1,12 @@
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/woorden.txt
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/MyProgram.deps.json
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/MyProgram.runtimeconfig.json
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/MyProgram.runtimeconfig.dev.json
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/MyProgram.dll
+/Users/johngorter/Projects/MyProgram/MyProgram/bin/Debug/netcoreapp2.0/MyProgram.pdb
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.csproj.CoreCompileInputs.cache
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.AssemblyInfoInputs.cache
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.AssemblyInfo.cs
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.dll
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.pdb
+/Users/johngorter/Projects/MyProgram/MyProgram/obj/Debug/netcoreapp2.0/MyProgram.csprojResolveAssemblyReference.cache
